@@ -1,0 +1,21 @@
+{
+  "projectId": "dfb8212e",
+  "appName": "gentlemans-quarter-app",
+  "businessName": "The Gentleman's Quarter",
+  "features": [
+    "booking",
+    "walk-in-queue",
+    "client-crm",
+    "sms-reminders",
+    "loyalty",
+    "analytics-basic"
+  ],
+  "businessInfo": {
+    "name": "The Gentleman's Quarter",
+    "address": "Dallas, TX",
+    "barber_count": 3,
+    "booking_system": "Booksy"
+  },
+  "generatedDir": "/Users/dongsub/Documents/Potential/projects/hire-agent/agent-house-bot/generated/gentlemans-quarter-app-fee23f2b",
+  "createdAt": "2026-03-10T05:29:21.092Z"
+}

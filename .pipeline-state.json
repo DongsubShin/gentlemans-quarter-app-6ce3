@@ -1,0 +1,45 @@
+{
+  "projectDir": "/Users/dongsub/Documents/Potential/projects/hire-agent/agent-house-bot/generated/gentlemans-quarter-app-fee23f2b",
+  "orderId": "b5207604-595d-4789-9916-5da51e7220f0",
+  "input": {
+    "app_name": "gentlemans-quarter-app",
+    "features": [
+      "booking",
+      "walk-in-queue",
+      "client-crm",
+      "sms-reminders",
+      "loyalty",
+      "analytics-basic"
+    ],
+    "business_info": {
+      "name": "The Gentleman's Quarter",
+      "address": "Dallas, TX",
+      "barber_count": 3,
+      "booking_system": "Booksy"
+    },
+    "message": "Building your project spec now — give me a minute.",
+    "stop_after": "prd"
+  },
+  "completedPhases": [
+    "init",
+    "prd",
+    "design",
+    "database",
+    "backend",
+    "frontend",
+    "integrate",
+    "verify-build"
+  ],
+  "phaseResults": [
+    "Setting up your project: Scaffolded 8 files",
+    "Generating your requirements document: Generated PRD: gentlemans-quarter-app_PRD_260310.md (11984 chars). Sent to client for review.",
+    "Designing your pages: Generated 2 HTML designs: User App, Admin Dashboard",
+    "Setting up your data storage: Generated 15 database files (entities + migration)",
+    "Building the backend: Generated 10 backend files (controllers, services, DTOs)",
+    "Building the user interface: Generated 12 frontend files (pages, components, hooks)",
+    "Wiring frontend to backend APIs: Integration included in frontend build",
+    "Verifying your app builds correctly: BUILD VERIFICATION FAILED: Backend build failed: Command failed: npm run build; Frontend build failed: Command failed: npm run build"
+  ],
+  "createdAt": "2026-03-10T05:28:53.295Z",
+  "updatedAt": "2026-03-10T05:33:53.792Z"
+}
